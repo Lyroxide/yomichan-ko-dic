@@ -43,8 +43,8 @@ Note that using `{sentence}` field in the card format will not show the original
 
 I would want to improve on the conjugator before making any other dictionaries, especially monolingual ones.
 
-
-
 There are probably many mistakes in the Naver dictionary; I will upload them in Github next time so that anyone can do a pull request. In the meantime, feel free to open an issue or message me.
+
+I am also hoping to make a frequency dictionary since Mecab for Korean already exists.
 
 Discord: Lyroxi#5735
