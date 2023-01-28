@@ -7,7 +7,7 @@ Originally inspired by [Samuihasu's KRDICT for Yomichan](https://github.com/Samu
 
 There is no real and easy way to do this. I tackled this by using [Kyubyong's KoParadigm](https://github.com/Kyubyong/KoParadigm) that generates all the possible conjugations given a certain verb. It is the best conjugator we have at hand right now, but it is not perfect and probably makes some mistakes.
 
-There is also a lack of KR-JP dictionaries despite amazing glossaries like Naver. This should be useful for anyone coming from Japanese immersion/who are Japanese natives.
+There is also a lack of KR-JP dictionaries despite amazing glossaries like Naver. Therefore, the dictionaries in this repo should be useful for anyone coming from Japanese immersion/who are Japanese natives.
 
 ## Dictionaries
 
@@ -15,7 +15,7 @@ There is also a lack of KR-JP dictionaries despite amazing glossaries like Naver
 
 - [Naver Korean-Japanese Dictionary](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 29 Jan 2023): This dictionary is originally in StarDict format and I simply converted it into JSON using [PyGlossary](https://github.com/ilius/pyglossary) before converting into Yomichan's JSON schema. Might be quite outdated as some words are not in this dictionary.
 
-- [KRDICT Korean-Japanese](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 29 Jan 2023): A Japanese version of KRDICT.
+- [KRDICT Korean-Japanese](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 29 Jan 2023): A Japanese version of KRDICT. Highly recommended.
 
 You should use all these dictionaries to cover as much ground as possible because either dictionary might have missed some conjugations/words.
 
@@ -55,7 +55,7 @@ Note that using `{sentence}` field in the card format will not show the original
 
 I would want to improve on the conjugator before making any other dictionaries, especially monolingual ones.
 
-There are probably conjugation mistakes in the Naver dictionary; I will upload them in Github next time so that anyone can do a pull request. In the meantime, feel free to open an issue or message me.
+There are probably conjugation mistakes in the Naver/KRDICT; I will upload them in Github next time so that anyone can do a pull request. In the meantime, feel free to open an issue or message me.
 
 I am also hoping to make a frequency dictionary since Mecab for Korean already exists.
 
