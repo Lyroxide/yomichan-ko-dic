@@ -41,7 +41,7 @@ Note that using `{sentence}` field in the card format will not show the original
 
 ## Dictionaries Changelog
 
-- 28 Jan 2023: First Release
+- 28 Jan 2023: Naver KR-JP First Release
 
 ## Future Plans
 
