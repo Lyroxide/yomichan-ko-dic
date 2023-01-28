@@ -11,7 +11,7 @@ There is no real and easy way to do this. I tackled this by using [Kyubyong's Ko
 
 - [KRDICT](https://github.com/Samuihasu/krdict-yomichan/releases): This is a Korean-English dictionary.
 
-- [Naver Korean-Japanese Dictionary](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 28 Jan 2023): This is helpful for anyone who knows Japanese. It is more natural to learn Korean using Japanese too. This dictionary is originally in StarDict format and I simply converted it into JSON using [PyGlossary](https://github.com/ilius/pyglossary) before converting into Yomichan format.
+- [Naver Korean-Japanese Dictionary](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 28 Jan 2023): This is helpful for anyone who knows Japanese. It is more natural to learn Korean using Japanese too. This dictionary is originally in StarDict format and I simply converted it into JSON using [PyGlossary](https://github.com/ilius/pyglossary) before converting into Yomichan's JSON schema.
 
 You should use both dictionaries to cover as much ground as possible because either dictionary might have missed some conjugations.
 
