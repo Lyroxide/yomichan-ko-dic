@@ -11,7 +11,7 @@ There is no real and easy way to do this. I tackled this by using [Kyubyong's Ko
 
 - [KRDICT](https://github.com/Samuihasu/krdict-yomichan/releases): This is a Korean-English dictionary.
 
-- [Naver Korean-Japanese Dictionary](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 28 Jan 2023): This is helpful for anyone who knows Japanese. It is more natural to learn Korean using Japanese too. This dictionary is originally in StarDict format and I simply converted it into JSON using [PyGlossary](https://github.com/ilius/pyglossary) before converting into Yomichan format. Please comment or message me if you find any issues.
+- [Naver Korean-Japanese Dictionary](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 28 Jan 2023): This is helpful for anyone who knows Japanese. It is more natural to learn Korean using Japanese too. This dictionary is originally in StarDict format and I simply converted it into JSON using [PyGlossary](https://github.com/ilius/pyglossary) before converting into Yomichan format.
 
 You should use both dictionaries to cover as much ground as possible because either dictionary might have missed some conjugations.
 
@@ -43,6 +43,8 @@ Note that using `{sentence}` field in the card format will not show the original
 
 I would want to improve on the conjugator before making any other dictionaries, especially monolingual ones.
 
-There are probably many mistakes in the Naver dictionary; please do tell me so that I can update them.
+
+
+There are probably many mistakes in the Naver dictionary; I will upload them in Github next time so that anyone can do a pull request. In the meantime, feel free to open an issue or message me.
 
 Discord: Lyroxi#5735
