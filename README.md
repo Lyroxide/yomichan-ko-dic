@@ -39,6 +39,10 @@ Note that using `{sentence}` field in the card format will not show the original
 
 [Source Han Serif](https://source.typekit.com/source-han-serif/?scid=social71226596) has great fonts that support Korean and Chinese/Japanese characters.
 
+## Dictionaries Changelog
+
+- 28 Jan 2023: First Release
+
 ## Future Plans
 
 I would want to improve on the conjugator before making any other dictionaries, especially monolingual ones.
