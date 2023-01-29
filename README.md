@@ -31,7 +31,7 @@ To use Forvo audio with Yomichan, download [Yomichan Forvo Server for Anki](http
 
 Make sure that "Search text with non-Japanese characters" and "Allow scanning popup content" is enabled.
 
-Under Audio->Configure audio playback sources, add Custom URL (JSON) with URL: `http://localhost:8770/?expression={expression}&term={term}&reading={reading}`
+Under Audio->Configure audio playback sources, add Custom URL (JSON) with URL: `http://localhost:8770/?expression={expression}&term={term}`
 
 In order for the audio to work for conjugated verbs, you MUST look up the unconjugated verb.
 
