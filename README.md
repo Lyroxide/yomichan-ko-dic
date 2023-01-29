@@ -19,8 +19,6 @@ There is also a lack of KR-JP dictionaries despite amazing glossaries like Naver
 
 You should use all these dictionaries to cover as much ground as possible because either dictionary might have missed some conjugations/words.
 
-You can also extract the zip and view the JSON files.
-
 ## Yomichan Setup
 
 If you are already using Yomichan for Japanese/Chinese, I recommend creating a new profile or new browser to load the dictionaries.
@@ -53,10 +51,8 @@ Note that using `{sentence}` field in the card format will not show the original
 
 ## Future Plans
 
-I would want to improve on the conjugator before making any other dictionaries, especially monolingual ones.
+I would want to improve on the conjugator before making any other dictionaries, especially monolingual and frequency dicts.
 
-There are probably conjugation mistakes in the Naver/KRDICT; I will upload them in Github next time so that anyone can do a pull request. In the meantime, feel free to open an issue or message me.
-
-I am also hoping to make a frequency dictionary since Mecab for Korean already exists.
+There are probably conjugation mistakes in the Naver/KRDICT; feel free to do a pull request or open an issue.
 
 Discord: Lyroxi#5735
