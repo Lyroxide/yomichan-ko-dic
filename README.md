@@ -11,6 +11,8 @@ There is also a lack of KR-JP dictionaries despite amazing glossaries like Naver
 
 ## Dictionaries
 
+Download:
+
 - [KRDICT](https://github.com/Samuihasu/krdict-yomichan/releases): This is a Korean-English dictionary.
 
 - [Naver Korean-Japanese Dictionary](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 29 Jan 2023): This dictionary is originally in StarDict format and I simply converted it into JSON using [PyGlossary](https://github.com/ilius/pyglossary) before converting into Yomichan's JSON schema. Might be quite outdated as some words are not in this dictionary.
@@ -18,6 +20,8 @@ There is also a lack of KR-JP dictionaries despite amazing glossaries like Naver
 - [KRDICT Korean-Japanese](https://mega.nz/folder/Tcw1EDaI#BcXbB_pAw7Nn2qOIVeNXTw) (Updated 29 Jan 2023): A Japanese version of KRDICT. Highly recommended.
 
 You should use all these dictionaries to cover as much ground as possible because one of them might have missing conjugations/words.
+
+Github files are for pull requests purposes.
 
 ## Yomichan Setup
 
@@ -59,4 +63,4 @@ I would want to improve on the conjugator or modify Yomichan for Korean before m
 
 There are probably conjugation mistakes in the Naver/KRDICT; feel free to do a pull request or open an issue.
 
-Discord: Lyroxi#5735
+Discord: lyroxide
