@@ -1,5 +1,5 @@
 # Korean Dictionaries for Yomichan
-**[I have forked Yomichan to deinflect Korean verbs](https://github.com/Lyroxide/yomichan-korean). Please check out the fork. This repo will still be up for anyone who wishes to use the dictionaries in jidoujisho.**
+**UPDATE! [I have forked Yomichan to deinflect Korean verbs](https://github.com/Lyroxide/yomichan-korean). Please check out the fork.**
 
 
 Yomichan is a browser extension created for Japanese which enables its users to quickly and efficiently look up words on a webpage.
